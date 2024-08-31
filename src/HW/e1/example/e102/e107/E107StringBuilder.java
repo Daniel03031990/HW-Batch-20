@@ -1,4 +1,4 @@
-package HW.e1.example.e107;
+package HW.e1.example.e102.e107;
 
 public class E107StringBuilder {
     public static void main(String[] args) {
